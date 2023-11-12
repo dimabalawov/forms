@@ -1,0 +1,21 @@
+body
+{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1em;
+    color: white;
+}
+input
+{
+    border-radius: .5em;
+    border-color: #B9848C;
+    background-color: #2F70AF;
+    color: white;
+}
+#back
+{
+    padding: 3em;
+    padding-top: 1em;
+    background-color: #806491;
+    width: 14em;
+}

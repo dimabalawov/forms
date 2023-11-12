@@ -1,0 +1,18 @@
+input
+{
+    border-radius: 1em;
+    border: .2em solid white;
+}
+select{
+    border-radius: 1em;
+    border: .2em solid white;
+}
+.back
+{
+    padding: 3em;
+    padding-top: 2em;
+    padding-bottom: 1em;
+   background-color:violet;
+   color: wheat;
+   width: 12em;
+}
